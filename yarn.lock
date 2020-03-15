@@ -1669,9 +1669,9 @@ acorn-walk@^6.0.1:
   integrity sha512-7evsyfH1cLOCdAzZAd43Cic04yKydNx0cF+7tiA19p1XnLLPU4dpCQOqpjqwokFe//vS0QqfqqjCS2JkiIs0cA==
 
 acorn@^5.5.3:
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
-  integrity sha512-T/zvzYRfbVojPWahDsE5evJdHb3oJoQfFbsrKM7w5Zcs++Tr257tia3BmMP8XYVjp1S9RZXQMh7gao96BlqZOw==
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
+  integrity sha512-1D++VG7BhrtvQpNbBzovKNc1FLGGEE/oGe7b9xJm/RFHMBeUaUGpluV9RLjZa47YFdPcDAenEYuq9pQPcMdLJg==
 
 acorn@^6.0.1, acorn@^6.0.4, acorn@^6.2.1:
   version "6.4.0"
@@ -10943,7 +10943,7 @@ wbuf@^1.1.0, wbuf@^1.7.3:
   dependencies:
     minimalistic-assert "^1.0.0"
 
-web3-bzz@^1.0.0-beta.26:
+web3-bzz@1.2.6:
   version "1.2.6"
   resolved "https://registry.yarnpkg.com/web3-bzz/-/web3-bzz-1.2.6.tgz#0b88c0b96029eaf01b10cb47c4d5f79db4668883"
   integrity sha512-9NiHLlxdI1XeFtbPJAmi2jnnIHVF+GNy517wvOS72P7ZfuJTPwZaSNXfT01vWgPPE9R96/uAHDWHOg+T4WaDQQ==
@@ -11001,7 +11001,7 @@ web3-core-subscriptions@1.2.6:
     underscore "1.9.1"
     web3-core-helpers "1.2.6"
 
-web3-core@1.2.6, web3-core@^1.0.0-beta.26:
+web3-core@1.2.6:
   version "1.2.6"
   resolved "https://registry.yarnpkg.com/web3-core/-/web3-core-1.2.6.tgz#bb42a1d7ae49a7258460f0d95ddb00906f59ef92"
   integrity sha512-y/QNBFtr5cIR8vxebnotbjWJpOnO8LDYEAzZjeRRUJh2ijmhjoYk7dSNx9ExgC0UCfNFRoNCa9dGRu/GAxwRlw==
@@ -11077,7 +11077,7 @@ web3-eth-iban@1.2.6:
     bn.js "4.11.8"
     web3-utils "1.2.6"
 
-web3-eth-personal@1.2.6, web3-eth-personal@^1.0.0-beta.26:
+web3-eth-personal@1.2.6:
   version "1.2.6"
   resolved "https://registry.yarnpkg.com/web3-eth-personal/-/web3-eth-personal-1.2.6.tgz#47a0a0657ec04dd77f95451a6869d4751d324b6b"
   integrity sha512-T2NUkh1plY8d7wePXSoHnaiKOd8dLNFaQfgBl9JHU6S7IJrG9jnYD9bVxLEgRUfHs9gKf9tQpDf7AcPFdq/A8g==
@@ -11089,7 +11089,7 @@ web3-eth-personal@1.2.6, web3-eth-personal@^1.0.0-beta.26:
     web3-net "1.2.6"
     web3-utils "1.2.6"
 
-web3-eth@^1.0.0-beta.26:
+web3-eth@1.2.6:
   version "1.2.6"
   resolved "https://registry.yarnpkg.com/web3-eth/-/web3-eth-1.2.6.tgz#15a8c65fdde0727872848cae506758d302d8d046"
   integrity sha512-ROWlDPzh4QX6tlGGGlAK6X4kA2n0/cNj/4kb0nNVWkRouGmYO0R8k6s47YxYHvGiXt0s0++FUUv5vAbWovtUQw==
@@ -11108,7 +11108,7 @@ web3-eth@^1.0.0-beta.26:
     web3-net "1.2.6"
     web3-utils "1.2.6"
 
-web3-net@1.2.6, web3-net@^1.0.0-beta.26:
+web3-net@1.2.6:
   version "1.2.6"
   resolved "https://registry.yarnpkg.com/web3-net/-/web3-net-1.2.6.tgz#035ca0fbe55282fda848ca17ebb4c8966147e5ea"
   integrity sha512-hsNHAPddrhgjWLmbESW0KxJi2GnthPcow0Sqpnf4oB6+/+ZnQHU9OsIyHb83bnC1OmunrK2vf9Ye2mLPdFIu3A==
@@ -11143,7 +11143,7 @@ web3-providers-ws@1.2.6:
     underscore "1.9.1"
     web3-core-helpers "1.2.6"
 
-web3-shh@^1.0.0-beta.26:
+web3-shh@1.2.6:
   version "1.2.6"
   resolved "https://registry.yarnpkg.com/web3-shh/-/web3-shh-1.2.6.tgz#2492616da4cac32d4c7534b890f43bac63190c14"
   integrity sha512-rouWyOOM6YMbLQd65grpj8BBezQfgNeRRX+cGyW4xsn6Xgu+B73Zvr6OtA/ftJwwa9bqHGpnLrrLMeWyy4YLUw==
@@ -11153,7 +11153,7 @@ web3-shh@^1.0.0-beta.26:
     web3-core-subscriptions "1.2.6"
     web3-net "1.2.6"
 
-web3-utils@1.2.6, web3-utils@^1.0.0-beta.26:
+web3-utils@1.2.6:
   version "1.2.6"
   resolved "https://registry.yarnpkg.com/web3-utils/-/web3-utils-1.2.6.tgz#b9a25432da00976457fcc1094c4af8ac6d486db9"
   integrity sha512-8/HnqG/l7dGmKMgEL9JeKPTtjScxOePTzopv5aaKFExPfaBrYRkgoMqhoowCiAl/s16QaTn4DoIF1QC4YsT7Mg==
@@ -11167,18 +11167,19 @@ web3-utils@1.2.6, web3-utils@^1.0.0-beta.26:
     underscore "1.9.1"
     utf8 "3.0.0"
 
-web3@1.0.0-beta.26:
-  version "1.0.0-beta.26"
-  resolved "https://registry.yarnpkg.com/web3/-/web3-1.0.0-beta.26.tgz#bb46daf6aefc313f768b3de39d7f4a8d7bd06663"
-  integrity sha1-u0ba9q78MT92iz3jnX9KjXvQZmM=
+web3@^1.2.6:
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/web3/-/web3-1.2.6.tgz#c497dcb14cdd8d6d9fb6b445b3b68ff83f8ccf68"
+  integrity sha512-tpu9fLIComgxGrFsD8LUtA4s4aCZk7px8UfcdEy6kS2uDi/ZfR07KJqpXZMij7Jvlq+cQrTAhsPSiBVvoMaivA==
   dependencies:
-    web3-bzz "^1.0.0-beta.26"
-    web3-core "^1.0.0-beta.26"
-    web3-eth "^1.0.0-beta.26"
-    web3-eth-personal "^1.0.0-beta.26"
-    web3-net "^1.0.0-beta.26"
-    web3-shh "^1.0.0-beta.26"
-    web3-utils "^1.0.0-beta.26"
+    "@types/node" "^12.6.1"
+    web3-bzz "1.2.6"
+    web3-core "1.2.6"
+    web3-eth "1.2.6"
+    web3-eth-personal "1.2.6"
+    web3-net "1.2.6"
+    web3-shh "1.2.6"
+    web3-utils "1.2.6"
 
 webidl-conversions@^4.0.2:
   version "4.0.2"
